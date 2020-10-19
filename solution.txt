@@ -1,0 +1,37 @@
+HW 1 Simone Schneeberg
+
+Commands run in order (after cloning, opening, and reading instructions)
+
+cd mystery && ls
+cat crimescene | grep CLUE
+cat people | grep Annabel
+cd membership && ls
+cat AAA | grep Annabel
+cat Delta_SkyMiles | grep Annabel
+cat Terminal_City_Library | grep Annabel
+cat Museum_of_Bash_History | grep Annabel
+cd ..
+cd ..
+cat hint3
+cd streets && ls
+head Mattapan_Street
+head -n 173 Mattapan_Street | tail -n 1
+cd .. 
+cd interviews && ls
+cat interview-699607
+cd .. && ls
+head vehicles
+cat vehicles | grep L337
+cat vehicles | grep “Make: Honda\nColor: Blue”
+cat vehicles | grep “L337” -A 5
+cd ..
+cd memberships
+cat AAA | grep Joe
+cat Delta_SkyMiles | grep Joe
+cat Delta_SkyMiles | grep Jeremy
+cat AAA | grep Jeremy
+cat Museum_of_Bash_History | grep Jeremy
+cat Terminal_City_Library | grep Jeremy
+
+
+Killer: Jeremy Bowers
