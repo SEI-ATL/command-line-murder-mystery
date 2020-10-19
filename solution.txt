@@ -1,0 +1,518 @@
+    1  # apt-get install git
+    2  apt-get install git
+    3  $ sudo apt-get update $ sudo apt-get install git
+    4  apt-get: $ sudo apt-get update $ sudo apt-get install git
+    5  sudo apt install git
+    6  sudo apt-get update
+    7  sudo apt-get install zsh
+    8  git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+    9  git --version
+   10  node --version
+   11  sudo apt install nodejs
+   12  node --version
+   13  zsh --version
+   14  ohMyZsh --version
+   15  apt-get update
+   16  apt-get install git-core
+   17  sudo apt install nvidia-driver-390
+   18  print env
+   19  print inv
+   20  printenv
+   21  code
+   22  code .bash profile
+   23  pwd
+   24  code .bash_profile
+   25  echo $FOO
+   26  echo FOO
+   27  echo
+   28  echo $FOO
+   29  bash
+   30  bash --version
+   31  git --version
+   32  echo $FOO
+   33  echo F00
+   34  echo $F00
+   35  version vsh
+   36  vsh --version
+   37  zsh --version
+   38  code .zshrc
+   39  echo $FOO
+   40  $echo $FOO
+   41  .code
+   42  code
+   43  echo $FOO
+   44  .zshrc
+   45  code .zshrc
+   46  echo $FOO
+   47  echo $SHELL
+   48  code .bash_profile
+   49  echo $FOO
+   50  code .bashrc
+   51  echo $FOO
+   52  code .bashrc
+   53  pwd
+   54  open
+   55  ls
+   56  cd
+   57  open desktop
+   58  open .
+   59  ls
+   60  open .desktop
+   61  open desktop.
+   62  open $desktop
+   63  .open desktop
+   64  ls
+   65  open snap
+   66  gopen snap
+   67  wopen snap
+   68  pen snap
+   69  open .snap
+   70  ls -la
+   71  ls -a
+   72  cd Desktop
+   73  ls
+   74  cd
+   75  ls
+   76  cd
+   77  ls
+   78  cd Desktop
+   79  cd ~
+   80  cd
+   81  ls
+   82  clear
+   83  cd Desktop
+   84  ls
+   85  open .
+   86  open GA PROJECT CODE WITH URL
+   87  pwd
+   88  cd ..
+   89  ls
+   90  cd Desktop
+   91  cd
+   92  cd desktop
+   93  cd Desctop
+   94  cd
+   95  ls
+   96  sd desktop
+   97  cd desktop
+   98  cd Desktop
+   99  cd ..
+  100  cd .
+  101  cd Desktop
+  102  open command-line.key
+  103  commands
+  104  cd
+  105  commands
+  106  help
+  107  clear
+  108  cd
+  109  cd Documents
+  110  ls
+  111  open GREEN LIGHT PROJECT.odt
+  112  cat GREEN LIGHT PROJECT.odt
+  113  cat GREEN LIGHT PROJECT
+  114  ls
+  115  cat test.odt
+  116  cat test.txt
+  117  cat profile.jpg
+  118  cd
+  119  cd Documents
+  120  gnome-open profile.jpg
+  121  xdg-open test.txt
+  122  xdg-open profile.jpg
+  123  touch.txt
+  124  touch books.txt
+  125  ls
+  126  rm books.txt
+  127  cd
+  128  cd Documents
+  129  ls
+  130  rm test.txt
+  131  ls
+  132  cd
+  133  cd Documents/
+  134  man xdg-open
+  135  cd
+  136  cd Desktop/
+  137  ls
+  138  clear
+  139  mkdir cars
+  140  ls
+  141  cd cars
+  142  ls
+  143  touch lamborghini.txt
+  144  touch g wagon.txt
+  145  ls
+  146  touch index.html
+  147  rm g
+  148  ls
+  149  rm wagon.txt
+  150  touch tesla.txt
+  151  touch honda.txt
+  152  ls
+  153  touch t.jpeg
+  154  ls
+  155  xdgopen index.html
+  156  xdg-open index.gtml
+  157  xdg-open index.html
+  158  cd
+  159  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  160  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  161  clear
+  162  ls
+  163  Desktopls
+  164  ls
+  165  Desktop
+  166  cd Desktop/
+  167  cd cars
+  168  echo "My name is Corey" > corey.txt
+  169  ls
+  170  xdg-open corey.txt
+  171  echo "My last name is Wilson" > corey.txt
+  172  xdg-open corey.txt
+  173  echo "My name is Corey" > corey.txt
+  174  echo "My last name is Wilson" >> corey.txt
+  175  xdg-open corey.txt
+  176  cat corey.txt
+  177  echo "My age is 26" >> corey.txt
+  178  cat corey.txt
+  179  cat corey.txt | sort >> honda
+  180  ls
+  181  cat honda.txt
+  182  cat corey.txt | sort >> honda.txt
+  183  cat honda.txt
+  184  echo "corey" > honda.txt
+  185  cat honda.txt
+  186  echo "honda" > honda.txt
+  187  cat honda
+  188  cat honda.txt
+  189  cat corey.txt | grep age
+  190  cat corey.txt | grep name
+  191  ls
+  192  rm honda
+  193  ls
+  194  cp corey.txt coreywilson.txt
+  195  ls
+  196  cat coreywilson.txt
+  197  cat corey.txt
+  198  code
+  199  code index.html
+  200  xdg-open index.html
+  201  cd
+  202  cd desktop
+  203  cd Desktop/
+  204  cd cars
+  205  touch test.html
+  206  cd.
+  207  mkdir motorcycles
+  208  ls
+  209  rm motorcycles
+  210  cd.
+  211  cd .
+  212  cd
+  213  cd Destop
+  214  cd Desktop/
+  215  mkdir motorcycles
+  216  ls
+  217  cd cars
+  218  ls
+  219  mv test.html ../motorcycles/
+  220  ls
+  221  cd ../motorcycles
+  222  ls
+  223  mv test.html ../cars
+  224  cd ../cars
+  225  ls
+  226  touch app.js
+  227  ls
+  228  cp -r | cd ../cars/
+  229  cp
+  230  cp --help
+  231  ls
+  232  cd ../motorcycles/
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd cars
+  237  cp -b | cd ../motorcycles/
+  238  clear
+  239  cd..
+  240  cd ..
+  241  rm -rf motorcycles/
+  242  ls
+  243  rm -rf cars/
+  244  ls
+  245  history
+  246  clear
+  247  cp -r cars motorcylces
+  248  cd Desktop/
+  249  ls
+  250  mkdir project-test
+  251  ls
+  252  cd project-test/
+  253  echo "# Project Test" >> README.md
+  254  ls
+  255  cat README.md 
+  256  xdg-open README.md 
+  257  git init
+  258  git status
+  259  git add README.md 
+  260  git status
+  261  git commit -m "My first commit"
+  262  git config --global coreywilson319@gmail.com
+  263  git config --global Coreywilson319@gmail.com
+  264  git config --global user.Corey
+  265  git config --global user.CoreyWilson319@gmail.com
+  266  git commit
+  267  git commit -m "My first commit"
+  268  git log
+  269  touch app.js index.html
+  270  ls
+  271  git status
+  272  git add .
+  273  git status
+  274  git reset
+  275  git status
+  276  git add .
+  277  git status
+  278  git reset
+  279  git add app.js
+  280  git status
+  281  git commit -m "[app] Add file to project
+  282  git log
+  283  git add index.html
+  284  ls
+  285  git add index.html
+  286  ls
+  287  git
+  288  ls
+  289  cd Desktop/
+  290  ls
+  291  cd project-test/
+  292  ls
+  293  git add index.html
+  294  git status
+  295  git commit -m "add files"
+  296  ls
+  297  git status
+  298  git
+  299  git log
+  300  cd ..
+  301  mkdir SEI1019
+  302  ls
+  303  cd SEI1019
+  304  ls
+  305  mkdir unit_one unit_two unit_three unit_four
+  306  ls
+  307  cd unit_one
+  308  ls
+  309  mkdir codealong
+  310  ls
+  311  mkdir labs deliverables resources
+  312  ls
+  313  cd ..
+  314  cd unit_two
+  315  mkdir labs deliverables resources codealong
+  316  cd ..
+  317  ls
+  318  cd unit_three
+  319  mkdir labs deliverables resources codealong
+  320  cd..
+  321  cd ..
+  322  mkdir labs deliverables resources codealong
+  323  ls
+  324  cd unit_four
+  325  mkdir labs deliverables resources codealong
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd project-test
+  332  ls
+  333  mkdir my-first-repo && cd my-first-repo
+  334  ls
+  335  echo "# my-first-repo" >> README.md
+  336  git init
+  337  git status
+  338  git add README.md
+  339  git status
+  340  git commit -m "first commit"
+  341  git branch -M main
+  342  git remote add origin gttps://github.com/CoreyWilson319/my-first-repo.git
+  343  git push -u origin main
+  344  git remote add origin https://github.com/CoreyWilson319/my-first-repo.git
+  345  git push -u origin main
+  346  git remote add origin https://github.com/CoreyWilson319/my-first-repo.git
+  347  git push -u origin main
+  348  clear
+  349  git remote add origin https://github.com/CoreyWilson319/my-first-repo.git
+  350  cd
+  351  cd Desktop/
+  352  ls
+  353  cd SEI1019
+  354  ls
+  355  cd unit_
+  356  cd unit_one
+  357  ls
+  358  cd codea
+  359  cd codealong/
+  360  ls
+  361  https://github.com/CoreyWilson319/pull-test.git
+  362  ls
+  363  git clone https://github.com/CoreyWilson319/pull-test.git
+  364  ls
+  365  cd pull-test/
+  366  ls
+  367  touch app.js index.html
+  368  code .
+  369  git status
+  370  git add app.js
+  371  git status
+  372  git commit -m "[app] Add name variable"
+  373  git add
+  374  git add index.html
+  375  git status
+  376  git commit -m "[index] Add file to project"
+  377  git push
+  378  cd ..
+  379  ls
+  380  cd deliverables
+  381  git clone https://github.com/CoreyWilson319/command-line-murder-mystery.git
+  382  ls
+  383  head -c 20 people
+  384  ls
+  385  cd ..
+  386  hint 1
+  387  hint1
+  388  cat hint1
+  389  cat hint3
+  390  cat hint 3
+  391  cat hint3
+  392  ls
+  393  cd ..
+  394  cat hint3
+  395  ls
+  396  cd command-line-murder-mystery/
+  397  ls
+  398  cat hint3
+  399  cat hint4
+  400  cd mystery
+  401  ls
+  402  grep "Annabel" people
+  403  cd streets/
+  404  grep "hart" streets
+  405  ls
+  406  cd ..
+  407  cat hint6
+  408  cat hint5
+  409  cd mystery/
+  410  ls
+  411  head -n 173 streets/Mattapan_Street | tail -n 1
+  412  ls
+  413  cd interviews/
+  414  ls
+  415  cat interview-9437737
+  416  head -n 173 streets/Buckingham Place | tail -n 
+  417  ls
+  418  cd..
+  419  cd ..
+  420  head -n 173 streets/Buckingham Place | tail -n 
+  421  ls
+  422  head -n 173 streets/Buckingham Place | tail - -n 
+  423  head -n 173 streets/Buckingham Place | tail --n 
+  424  ls
+  425  cd ..
+  426  hint6
+  427  cat hint6
+  428  cat hint7
+  429  cat hint8
+  430  ls
+  431  cat instructions
+  432  ls
+  433  cat solution
+  434  cd mystery/
+  435  ls
+  436  cd ..
+  437  hint1
+  438  cat hint1
+  439  cat hint2
+  440  cat hint3
+  441  cat hint4
+  442  cat hint5
+  443  cat hint6
+  444  cat hint7
+  445  cat hint8
+  446  cd mystery/
+  447  ls
+  448  grep -5 vehicles
+  449  history
+  450  clear
+  451  grep "Oluwasegun Annabel
+  452  grep
+  453  clear
+  454  grep "Annabel" vehicle
+  455  ls
+  456  grep "Annabel" vehicles
+  457  xdg-open vehicles
+  458  ls
+  459  cd ..
+  460  cat hint6
+  461  cat hint7
+  462  cd mystery/
+  463  grep -A 5 "L337" mystery/vehicles
+  464  ls
+  465  grep -A 5 "L337" mystery/vehicles
+  466  cd
+  467  ls
+  468  cd Desktop/
+  469  ls
+  470  cd SEI1019/
+  471  ls
+  472  cd unit_one
+  473  ls
+  474  cd deliverables
+  475  ls
+  476  cd command-line-murder-mystery/
+  477  ls
+  478  grep -A 5 "L337" mystery/vehicles
+  479  cat hint5
+  480  ls
+  481  cd mystery/
+  482  ls
+  483  head 20 people
+  484  head -n 20 -n
+  485  head --help
+  486  head -c 20
+  487  head c-20 people
+  488  head -c 20
+  489  ls
+  490  cd mystery/
+  491  ls
+  492  cd memberships
+  493  ls
+  494  cat Delta SkyMiles AAA Museum of Bash Livrary | grep "John Smith"
+  495  cat Delta_SkyMiles AAA Museum_of_Bash_History | grep "Mike"
+  496  cat Delta_SkyMiles AAA Museum_of_Bash_History | grep "John"
+  497  cat Delta_SkyMiles AAA Museum_of_Bash_History | grep "Matt"
+  498  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Matt"
+  499  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Matt Waite"
+  500  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "John"
+  501  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Mike"
+  502  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Brian"
+  503  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Al"
+  504  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Al "
+  505  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Joe  "
+  506  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Joe "
+  507  cat Delta_SkyMiles AAA Museum_of_Bash_History library.txt | grep "Jeremy "
+  508  ls
+  509  cd ..
+  510  ls
+  511  cd ..
+  512  ls
+  513  cat README.md
+  514  echo "The killer is Jeremy Bowers" >> solution.txt
+  515  cp History >> solution.txt
+  516  cp --help
+  517  history > solution.txt
+The Killer is Jeremy Bowers
