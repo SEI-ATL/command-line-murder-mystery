@@ -1,5 +1,4 @@
 1. CLI history:
-cd deliverable
   git clone https://github.com/ckoukis/command-line-murder-mystery.git
   ls
   cd command-line-murder-mystery
@@ -41,3 +40,14 @@ cd deliverable
   touch solution.txt
   ls
   code solution.txt
+  git status
+  git add .
+  git status
+  git commit -m "[text] command line history and final solution"
+  git status
+  git log
+  :wq
+
+
+2. Name of Killer:
+Jeremy Bowers
