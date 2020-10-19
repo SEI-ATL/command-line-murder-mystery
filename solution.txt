@@ -1,0 +1,43 @@
+1. CLI history:
+cd deliverable
+  git clone https://github.com/ckoukis/command-line-murder-mystery.git
+  ls
+  cd command-line-murder-mystery
+  ls
+  cat instructions
+  cd mystery
+  cat crimescene
+  cd Desktop/SEI1019/unit_1/deliverable/command-line-murder-mystery/mystery
+  grep "CLUE" crimescene
+  grep "Annabel" people
+  head -n 173 streets/Mattapan_Street | tail -n 1
+  cd interviews
+  cat interview-9437737
+  cd ..
+  head -n 40 streets/Hart_Place | tail -n 1
+  cd interviews
+  cat interview-47246024
+  cd ..
+  head -n 179 streets/Buckingham_Place | tail -n 1
+  cd interviews
+  cat interview-699607
+  cd ..
+  ls
+  head vehicles
+  grep -A 5 "L337" vehicles
+  cd memberships
+  ls
+  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy"
+  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe"
+  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui"
+  cd ..
+  ls
+  cat people | grep "Jacqui Maher"
+  cat people | grep "Jeremy Bowers"
+  ls
+  grep -A 5 "Jeremy Bowers" vehicles
+  cd ..
+  ls
+  touch solution.txt
+  ls
+  code solution.txt
