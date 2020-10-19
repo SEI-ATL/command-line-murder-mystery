@@ -1,0 +1,109 @@
+  732  git clone https://github.com/delayedaa/command-line-murder-mystery.git
+  733  ls
+  734  cd command-line-murder-mystery
+  735  git echo instructions
+  736  cat instructions
+  737  ls
+  738  cd mystery
+  739  cat crimescene
+  740  ls
+  741  cat crimescene | grep CLUE
+  742  cd ..
+  743  touch solution.txt
+  744  ls
+  745  cd mystery
+  746  cat crimescene | grep CLUE
+  747  cat people
+  748  cat crimescene | grep CLUE
+  749  ls
+  750  cat interviews
+  751  cd interviews
+  752  cat interview-99643550
+  753  cd ..
+  754  cd memberships
+  755  cat Costco
+  756  ls
+  757  cat REI
+  758  cd ..
+  759  cd streets
+  760  cat Vista_Street
+  761  cd ..
+  762  cat vehicles
+  763  cat crimescene | grep CLUE
+  764  ls
+  765  cat vehicles | grep 6'
+  766  cat vehicles | grep "6'"
+  767  cat vehicles
+  768  cat crimescene | grep CLUE
+  769  ls
+  770  grep "Annabel" people
+  771  cd memberships
+  772  cat museum.txt
+  773  cd ..
+  774  cd streets
+  775  cat Wycliff_Avenue
+  776  cd ..
+  777  grep "Annabel" people
+  778  cat streets/Hart_Place
+  779  cat streets/Buckingham_Place
+  780  cat crimescene | grep CLUE
+  781  ls
+  782  grep "Annabel" people
+  783  wc -l streets/Hart_Place
+  784  head -n 40 streets/Hart_Place
+  785  echo "Annabel Sun\tF\t26\tHart Place, line 40" >> clues.txt
+  786  echo "Annabel Church\tF\t38\tBuckingham Place, line 179" >> clues.txt
+  787  ls
+  788  cat clues.txt
+  789  echo "SEE INTERVIEW #47246024" >> clues.txt
+  790  cat clues.txt
+  791  head -n 179 streets/Buckingham_Place
+  792  echo "SEE INTERVIEW #699607" >> clues.txt
+  793  cat clues.txt
+  794  ls
+  795  cd interviews
+  796  cd ..
+  797  cat clues.txt
+  798  cat interviews/interview-47246024
+  799  cat interviews/interview-699607
+  800  echo "blue Honda, with a license plate that starts with "L337" and ends with \"9\"" >> clues.txt
+  801  cat clues.txt
+  802  cat vehicles | grep -i "L337"
+  803  head -n 20 vehicles
+  804  cat vehicles | grep -iA 5 "L337"
+  805  cat vehicles | grep -iA 5 "L337" >> suspects.txt
+  806  cat suspects.txt
+  807  cat clues.txt
+  808  cat suspects.txt | grep -iA 4 "Honda"
+  809  cat suspects.txt | grep -iA 4 "Honda" > suspects.txt
+  810  cat suspects.txt
+  811  ls
+  812  cat suspects.txt
+  813  open suspects.txt
+  814  cat vehicles | grep -iA 5 "L337" >> suspects.txt
+  815  cat suspects.txt
+  816  cat vehicles | grep -iA 5 "L337" >> suspects2.txt
+  817  cat suspects2.txt
+  818  cat suspects.txt | grep -iA 4 "Honda" > suspects2.txt
+  819  cat suspects2.txt
+  820  cat suspects.txt
+  821  cat suspects2.txt
+  822  cat suspects2.txt | grep -iA 3 "Blue" > suspects3.txt
+  823  cat suspects3.txt
+  824  cat crimescene | grep CLUE
+  825  cat crimescene | grep CLUE >> clues.txt
+  826  cat clues.txt
+  827  cat suspects3.txt | grep -iB 1 "6'" > suspects4.txt
+  828  cat suspects4.txt
+  829  ls
+  830  grep "Erika" people
+  831  grep "Joe" people
+  832  grep "Jeremy" people
+  833  grep "Jacqui" people
+  834  cat clues.txt
+  835  echo "Final suspects: Joe Germuska and Jeremy Bowers" >> clues.txt
+  836  cat clues.txt
+  837  grep "Joe Germuska" memberships/AAA memberships/Delta_SkyMiles memberships/library.txt memberships/Museum_of_Bash_History
+  838  grep "Jeremy Bowers" memberships/AAA memberships/Delta_SkyMiles memberships/library.txt memberships/Museum_of_Bash_History
+
+The killer is: Jeremy Bowers
