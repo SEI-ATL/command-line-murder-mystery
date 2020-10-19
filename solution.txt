@@ -1,0 +1,118 @@
+The killer is Jeremy Bowers
+343  cat instructions
+  344  cd command-line-murder-mystery
+  345  cat instructions
+  346  cd mystery
+  347  cat crimescene
+  348  cat instruvtions
+  349  cat instructions
+  350  cd ..
+  351  cat instructions
+  352  cd mystery
+  353  cd crimescene
+  354  grep CLUE
+  355  pwd
+  356  cd desktop
+  357  cd SE1019
+  358  cd Unit_1
+  359  cd deliverables
+  360  cd command-line-murder-mystery
+  361  cat instructions
+  362  cd mystery
+  363  cat crimescene
+  364  cd ..
+  365  cat instructions
+  366  cd mystery
+  367  grep crimescene
+  368  cd desktop
+  369  cd Se1019
+  370  cd Unit_1
+  371  cd deliverables
+  372  cd command-line-murder-mystery
+  373  cat instructions
+  374  cat hint1
+  375  cat hint2
+  376  grep "CLUE" crimescene
+  377  cd crimescene
+  378  cd mystery
+  379  grep "CLUE" crimescene
+  380  cd interviews
+  381  cat hint3
+  382  cd ..
+  383  cat hint3
+  384  cd ..
+  385  cat hint3
+  386  cd mystery
+  387  head -n 20 people
+  388  head -n 20 vehicles
+  389  greb "6'" vehicles
+  390  grep "6'" vehicles
+  391  grep "Annabel" vehiles
+  392  grep "Annabel" vehicles
+  393  cd ..
+  394  cat instructions
+  395  cat hint4
+  396  grep "Annabel" people
+  397  cd mystery
+  398  grep "Annabel" people
+  399  cd ..
+  400  cat hint5
+  401  head -n 173 streets/Mattapan_Street | tail -n 1
+  402  cd mystery
+  403  head -n 173 streets/Mattapan_Street | tail -n 1
+  404  grep "#9437737" interviews
+  405  cd interviews
+  406  grep "#9437737" interviews
+  407  cat interview 9437737
+  408  cat interview-9437737
+  409  cd ..
+  410  cd mystery
+  411  head -n 40 streets/Hart_Place | tail -n 1
+  412  cd interviews
+  413  cat interview-47246024
+  414  cd ..
+  415  head -n 179 streets/Buckingham_Place | tail -n 1
+  416  cd mystery
+  417  head -n 179 streets/Buckingham_Place | tail -n 1
+  418  cd interviews
+  419  cat interview-699607
+  420  cd ..
+  421  cd vehicles
+  422  cd ..
+  423  cat hint6
+  424  cd mystery
+  425  head -n 20 vehicles
+  426  cd ..
+  427  cat hint7
+  428  cd mystery
+  429  grep -A 5 "L337" mystery/vehicles
+  430  grep -A 5 "L337" vehicles
+  431  cd ..
+  432  cat hint8
+  433  cd mystery
+  434  cat Ftiness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers"
+  435  cd memberships
+  436  cat Ftiness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers"
+  437  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers"
+  438  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska"
+  439  cat Fitness_Galaxy AAA United_MileagePlus | grep "Aron Pilhofer"
+  440  cd ..
+  441  grep "Annabel" people
+  442  cd ..
+  443  cd mystery
+  444  cd interviews
+  445  cat interview-699607
+  446  head -n 179 streets/Buckingham_Place | tail -n 1
+  447  cd ..
+  448  head -n 179 streets/Buckingham_Place | tail -n 1
+  449  cd ..
+  450  cd mystery
+  451  grep "CLUE" crimescene
+  452  cd memberships
+  453  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History | grep "Aron Pilhofer"
+  454  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History | grep "Joe Germuska"
+  455  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History | grep "Jeremy Bowers"
+  456  cd..
+  457  cd ..
+  458  touch solution.txt
+  459  ls
