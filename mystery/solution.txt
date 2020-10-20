@@ -1,0 +1,29 @@
+The killer is Jeremy Bowers.
+  275  cd command-line-murder-mystery
+  276  cd mystery
+  277  head -n 20 people
+  278  grep "CLUE" crimescene
+  279  grep "Annabel" people\n
+  280  grep "Annabel" people
+  281  grep "CLUE" crimescene
+  282  grep "Annabel" people
+  283  head -n 173 streets/Mattapan_Street | tail -n 1
+  284  head -n 179 streets/Buckingham_Place | tail -n 1
+  285  cd interviews
+  286  cat interview-9437737
+  287  cat interview-699607
+  288  cd ..
+  289  ls
+  290  grep "Honda" vehicles
+  291  grep "Blue" vehicles
+  292  grep "L337" vehicles
+  293  grep -A 5 "L337" vehicles
+  294  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Joe Germuska"
+  295  ls
+  296  cd memberships
+  297  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Joe Germuska"
+  298  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Jacqui Maher"
+  299  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Jeremy Bowers"
+  300  cd ..
+  301  grep "Jeremy Bowers" people
+  302  grep "Jacqui Maher" people
