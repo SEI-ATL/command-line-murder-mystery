@@ -1,0 +1,2 @@
+I was not abe to find the killer. I hit a roadblock when it came to using head and tail.
+Also before i could copy my history to the solution text the terminal closed and my command history was not there anymore. I got as far as finding Annabell Church's address then hit the roadblock there.
