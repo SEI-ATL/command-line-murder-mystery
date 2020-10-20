@@ -1,3 +1,5 @@
+Killer: Jeremy Bowers
+
   830  cat instructions
   831  l
   832  cd mystery/
