@@ -1,0 +1,28 @@
+  830  cat instructions
+  831  l
+  832  cd mystery/
+  833  cat crimescene | grep CLUE
+  834  cat people | grep Annabel
+  835  grep Annabel memberships/*
+  836  grep Annabel people
+  837  head -n 173 streets/Mattapan_Street | tail -n 1
+  838  l
+  839  la
+  840  ..
+  841  git log
+  842  mystery
+  843  grep Annabel vehicles
+  844  head vehciles
+  845  head vehicles
+  846  cat hint*
+  847  cat hint
+  848  cat hint1
+  849  ls
+  850  l
+  851  ..
+  852  cat hint*
+  853  grep -A 5 "L337" mystery/vehicles
+  854  l
+  855  mystery/memberships
+  856  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History | grep "Jeremy Bowers"
+  857  cat AAA Delta_SkyMiles library.txt Museum_of_Bash_History | grep "Joe Germuska"
