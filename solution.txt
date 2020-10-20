@@ -1,0 +1,65 @@
+ls
+cat instructions
+cd mystery
+ls
+cat crimescene | sls clue
+//clue >6'0
+//clue AAA, Delta Skymiles, Library, Museum of Bash History
+//clue Annabel, new zealand
+dir -recurse | sls annabel
+//clue Annabel Sun
+//clue Annabel Church
+ls
+cd interviews
+dir -recurse | sls sun
+//sun not witness from cafe
+dir -recurse | sls church
+//church is witness from cafe (interview-699607)
+cat interview-699607
+//did not see shooter saw car flee scene. blue honda license plate starts L337, ends with 9
+cd ..
+dir -recurse | sls L337
+//13 vehicles with lp that begin with L337
+//line number for each match
+(Get-Content -Path .\vehicles -TotalCount 872)[865..872]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 2174)[2167..2174]
+//Mike Bostock
+(Get-Content -Path .\vehicles -TotalCount 5464)[5457..5464]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 7172)[7165..7172]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 13570)[13563..13570]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 13661)[13654..13661]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 15929)[15922..15929]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 17749)[17742..17749]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 22089)[22082..22089]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 23832)[23825..23832]
+//no match
+(Get-Content -Path .\vehicles -TotalCount 24840)[24833..24840]
+//Joe Germuska
+(Get-Content -Path .\vehicles -TotalCount 31833)[31826..31833]
+//Jeremy Bowers
+(Get-Content -Path .\vehicles -TotalCount 34318)[34311..34318]
+//no match
+dir -recurse | sls bostock
+//Mike Bostock out of town
+dir -recurse | sls germuska
+//Joe Germuska has AAA and TCPL
+dir -recurse | sls bowers
+//Jeremy Bowers has AAA, Delta, MBH, and TCPL
+//Bowers lives on Dunstable Road
+cd streets
+cat Dunstable_Road
+//says to see interview 9620713
+cd ..
+cd interviews
+cat interview-9620713
+//all other suspects eliminated.
+
+Jeremey Bowers is the shooter
