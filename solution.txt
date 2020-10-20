@@ -1,0 +1,126 @@
+ 1.) Command history:
+  
+  296  cd mystery
+  297  ;s
+  298  ls
+  299  cat crimescene
+  300  ls
+  301  cat people
+  302  ls
+  303  cd interviews
+  304  ;s
+  305  ls
+  306  cd ..
+  307  ls
+  308  cd ..
+  309  ;s
+  310  ls
+  311  cat hint3
+  312  cat hint4
+  313  cat hint5
+  314  ls
+  315  cd mystery
+  316  lsl
+  317  ls
+  318  cd people
+  319  head -n 20 people
+  320  cd ../..
+  321  ls
+  322  cd command-line-murder-mystery
+  323  ls
+  324  cat instructions
+  325  lsa
+  326  ls
+  327  cd mystery
+  328  ls
+  329  cd vehicles
+  330  cat vehicles
+  331  ls
+  332  cat vehicles | grep Height: 6
+  333  cat vehicles | grep "Height: 6"
+  334  ls
+  335  cd streets
+  336  ls
+  337  cd ..
+  338  cd memberships
+  339  ls
+  340  cat library.txt
+  341  ls
+  342  cd ..
+  343  ls
+  344  cd mystery
+  345  ls
+  346  head -n 20 people
+  347  ls
+  348  grep "annabel" *
+  349  ls
+  350  cd memberships
+  351  ;s
+  352  ls
+  353  grep "annabel" *
+  354  grep -l "annabel"
+  355  cd Desktop
+  356  cd SEI1019
+  357  cd unit_1/deliverables/command-line-murder-mystery
+  358  ls
+  359  cd mystery
+  360  ls
+  361  cd streets
+  362  grep "SEE INTERVIEW" *
+  363  cd ..
+  364  cd interviews
+  365  ls
+  366  cat interview-47246024
+  367  cat interview-699607
+  368  cd ..
+  369  ls
+  370  head vehicles
+  371  cat vehicles | grep -A 5 "L337..9"
+  372  cat vehicles | grep -A 5 "L337..9" >> plates.txt
+  373  ls
+  374  cat plates.txt
+  375  cat plates.txt | grep "Blue" >> blue.txt
+  376  cat blue.txt
+  377  rm blue.txt
+  378  cat plates.txt | grep -C 3 "Blue" >> blue.txt
+  379  cat blue.txt
+  380  cat blue.txt | grep -C 3 "Honda" >> honda.txt
+  381  cat honda.txt
+  382  cd ..
+  383  ls
+  384  cd mystery
+  385  ls
+  386  cd memberships
+  387  ls
+  388  cat AAA
+  389  ls
+  390  cat AAA | grep "Joe Germuska"
+  391  cd ..
+  392  cat people | grep "Erika"
+  393  cd memberships
+  394  cat Delta_SkyMiles | grep "Joe Germuska"
+  395  cat Delta_SkyMiles | grep "Jeremy Bowers"
+  396  cat AAA | grep "Jeremy Bowers"
+  397  cat library | grep "Jeremy Bowers"
+  398  cat library.txt | grep "Jeremy Bowers"
+  399  cat Museum_of_Bash_History | grep "Jeremy Bowers"
+  400  cat Museum_of_Bash_History | grep "Jacqui Maher"
+  401  cat AAA | grep "Jacqui Maher"
+  402  cat library.txt | grep "Jacqui Maher"
+  403  cat Delta_SkyMiles | grep "Jacqui Maher"
+  404  cd ..
+  405  ls
+  406  cat hint6
+  407  cat hint7
+  408  cat hint8
+  409  cd mystery
+  410  cd interviews
+  411  ls
+  412  history
+  413  cat interview-699607
+  414  cd ..
+  415  ls
+  416  cat people | grep "Jeremy Bowers"
+  417  cat people | grep "Jacqui Maher"
+
+  2.) The Killer is JEREMY BOWERS!!!!
