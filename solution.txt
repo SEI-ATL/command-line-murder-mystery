@@ -1,0 +1,25 @@
+cd command-line-murder-mystery
+ls
+cd mystery, grep CLUE crimescene
+cd ..
+cat solution
+cat hint1
+cat hint2
+cat hint3
+cat hint4
+cat hint5
+cat hint6
+cat hint7
+cat hint8
+cd mystery
+cd interviews
+head -n 173 streets/Mattapan_Street | tail -n 1
+head crimescene 173 streets/Mattapan_Street | tail crimescene 1
+head interview-9437737
+grep Honda vehicles
+head vehicles
+grep -A 5 L337 mystery/vehicles
+cat Fitness_Galaxy AAA United_MileagePlus | grep Annabel Sun
+cat Fitness_Galaxy AAA United_MileagePlus | grep Annabel Church
+cat Fitness_Galaxy AAA United_MileagePlus | grep Annabel Fuglsang
+cat Fitness_Galaxy AAA United_MileagePlus | grep Annabel Oluwasegun
