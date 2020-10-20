@@ -1,0 +1,116 @@
+  449  cd desktop
+  450  SEI1019
+  451  unit_one
+  452  deliverable
+  453  command-line-murder-mystery
+  454  open instructions
+  455  cd mystery
+  456  cd interviews
+  457  ls
+  458  cd ..
+  459  cat crimescene | grep clue
+  460  cat crimescene | grep CLUE
+  461  open interviews
+  462  cd interviews
+  463  cd ..
+  464  open people
+  465  ls
+  466  cat interviews | grep barista
+  467  cat crimescene | barista
+  468  open cheatsheet.save
+  469  cd streets
+  470  ls
+  471  cd ..
+  472  cat people | Annabelle
+  473  cat people | Annabel
+  474  cat people | grep Annabel
+  475  cd ..
+  476  open hint1
+  477  open hint2
+  478  open hint3
+  479  ls
+  480  cd mystery
+  481  streets
+  482  open Hart_Place
+  483  cd ..
+  484  cd interviews
+  485  open interview-47246024
+  486  cd ..
+  487  cd streets
+  488  cd ..
+  489  streets
+  490  cd ..
+  491  interviews
+  492  open interview-699607
+  493  cd ..
+  494  streets
+  495  open Mattapan_Street
+  496  cd ..
+  497  interviews
+  498  open interview-9437737
+  499  cd ..
+  500  streets
+  501  open Haley_Street
+  502  cd ..
+  503  interviews
+  504  open interview-871877
+  505  cd
+  506  cd ..
+  507  rubencedeno
+  508  desktop
+  509  SEI1019
+  510  unit_one
+  511  deliverable
+  512  command-line-murder-mystery
+  513  cd mystery
+  514  vehicles
+  515  cd vehicles
+  516  open vehicles
+  517  cat vehicles | grep Honda
+  518  cat vehicles | grep L337
+  519  cat vehicles | grep Blue Honda L337
+  520  cat vehicles | grep Blue
+  521  cat vehicles | grep L337
+  522  cat vehicles | grep color:blue make: honda
+  523  cat vehicles | grep Color:Blue Make: Honda
+  524  cat vehicles | grep Blue Honda
+  525  cat vehicles | grep Honda
+  526  open vehicles
+  527  cd ..
+  528  cat hint4
+  529  cat hint5
+  530  cat hint6
+  531  cat hint7
+  532  cat vehicles | grep -A 5 "L337" mystery/vehicles
+  533  cat hint7
+  534  cat hint8
+  535  cd ..
+  536  cd command-line-murder-mystery
+  537  mcd ystery
+  538  cd mystery
+  539  cd memberships
+  540  cat AAA Delta_SkyMiles Museum_of_Bash_History library
+  541  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep aron
+  542  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep joe
+  543  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep Aron
+  544  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep Joe
+  545  cat AAA Delta_SkyMiles Museum_of_Bash_History library | grep Jeremy
+  546  ls
+  547  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Jeremy
+  548  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Joe
+  549  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep Aron
+  550  cat hint8
+  551  cd ..
+  552  cd..
+  553  cd ..
+  554  cat hint8
+  555  ls
+  556  mystery
+  557  memberships
+  558  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep -c "Jeremy Bowers"
+  559  cd ..
+  560  touch solution.txt
+  561  ls
+
+
+The killer is Jeremy Bowers.
