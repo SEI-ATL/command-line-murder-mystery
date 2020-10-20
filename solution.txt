@@ -1,0 +1,70 @@
+1. The commands:
+cd command-line-murder-mystery
+  304  ls
+  305  cat instructions
+  306  cd mystery
+  307  ls
+  308  cat crimescene
+  309  cat solution
+  310  cd ..
+  311  cat solution
+  312  cd mystery
+  313  ls
+  314  head -n 20 crimescene
+  315  ls
+  316  head -n 20 people
+  317  cat people
+  318  ls
+  319  head -n 20 vehicles
+  320  grep CLUE crimescene
+  321  grep CLUE people
+  322  grep CLUE vehicles
+  323  grep Annabel people
+  324  grep Annabel vehicles
+  325  head -n 20 people
+  326  cd streets
+  327  ls
+  328  cat Buckingham_Place
+  329  head -n 179 Buckingham Place | tail -n 1
+  330  head -n 179 Buckingham_Place | tail -n 1
+  331  cd ..
+  332  ls
+  333  cd interviews
+  334  ls
+  335  cat 699607
+  336  cat interview-699607
+  337  cd ..
+  338  ls
+  339  head -n 20 vehicles
+  340  grep Blue vehicles
+  341  grep -a 5 "L337" vehicles
+  342  grep -A 5 "L337" vehicles
+  343  grep "Joe Germuska" interviews
+  344  grep "Joe Germuska"
+  345  cd Desktop/SEI1019/unit_one/deliverable
+  346  ls
+  347  cd command-line-murder-mystery
+  348  ls
+  349  cd mystery
+  350  ls
+  351  cd memberships
+  352  ls
+  353  cd ..
+  354  cd memberships
+  355  cd AAA
+  356  grep "Joe Germuska" AAA
+  357  cd ..
+  358  ls
+  359  grep CLUE crimescene
+  360  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"
+  361  cd memberships
+  362  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"
+  363  cd ..
+  364  ls
+  365  grep -A 5 "L337" vehicles
+  366  cd memberships
+  367  ls
+  368  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Jeremy Bowers"
+
+2. The killer:
+Jeremy Bowers
