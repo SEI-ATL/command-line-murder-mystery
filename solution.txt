@@ -1,0 +1,13 @@
+head - n 40 people
+grep - n 40 streets
+head - n 20 people 
+grep cat Costco AAadvantage museum.txt | grep
+head - n 20 vehicles | tail - n 5
+grep "green vehicles" 
+
+The Killer's name is: "Marie Kim" 
+
+
+
+
+cd ..
