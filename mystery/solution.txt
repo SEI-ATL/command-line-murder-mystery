@@ -1,0 +1,177 @@
+THE KILLER IS JEREMY BOWERS ------- 251  git clone https://github.com/andrewemcmanus/command-line-murder-mystery.git
+  252  ls
+  253  cd command-line-murder-mystery
+  254  ls
+  255  cat instructions
+  256  ls
+  257  cat instructions
+  258  cat crimescene
+  259  ls
+  260  cd mystery
+  261  ls
+  262  grep -w CLUE crimescene
+  263  touch solution.txt
+  264  cat people
+  265  clear
+  266  grep -w CLUE crimescene
+  267  ls
+  268  grep -w male people
+  269  grep -w M people
+  270  clear
+  271  grep -w CLUE crimescene
+  272  ls
+  273  grep -w New Zealand people
+  274  grep -w New Zealand
+  275  cd Desktop
+  276  cd SEI-10-19
+  277  ls
+  278  cd unit_one
+  279  ls
+  280  cd deliverable
+  281  ls
+  282  cd command-line-murder-mystery
+  283  ls
+  284  cat hint1
+  285  cat hint2
+  286  cd mystery
+  287  grep CLUE crimescene
+  288  head -n 20 people
+  289  grep Annabel people
+  290  ls
+  291  head -n 20 vehicles
+  292  cd memberships
+  293  ls
+  294  cat 1.txt
+  295  cd ..
+  296  ls
+  297  clear
+  298  ls
+  299  grep CLUE crimescene
+  300  head vehicles
+  301  grep AAA vehicles
+  302  cd streets
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd interviews
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd memberships
+  311  ls
+  312  head AAA
+  313  cd ..
+  314  grep -r Annabel
+  315  cd Desktop
+  316  cd SEI-10-19
+  317  ls
+  318  cd unit_one
+  319  ls
+  320  cd deliverable
+  321  ls
+  322  cd command_line_murder_mystery
+  323  cd command-line-murder-mystery
+  324  ls
+  325  cat readme.md
+  326  ls
+  327  cat LICENSE
+  328  head license.txt
+  329  ls
+  330  cat hint5
+  331  cat hint1
+  332  cat hint2
+  333  cat hint3
+  334  grep CLUE crimescene
+  335  cd mystery
+  336  grep CLUE crimescene
+  337  cat hint4
+  338  ls
+  339  grep Annabel people
+  340  ls
+  341  cd streets
+  342  grep -r  Buckingham Place
+  343  grep -r  Buckingham Place *
+  344  ls
+  345  grep  Buckingham Place *
+  346  grep  Buckingham_Place *
+  347  grep  Buckingham *
+  348  cd ..
+  349  grep -r Buckingham
+  350  grep -r Buckingham *
+  351  grep -r Buckingham_Place *
+  352  grep -r Hart *
+  353  grep -r Hart_Place *
+  354  ls
+  355  grep -r Annabel *
+  356  grep Annabel vehicles
+  357  grep -C 10 Annabel vehicles
+  358  grep -r 0O27BTD *
+  359  ls
+  360  cd interviews
+  361  ls
+  362  cd ..
+  363  ls
+  364  cd memberships
+  365  ls
+  366  grep -r Annabel *
+  367  head newfile.txt
+  368  head museum_of_bash_history
+  369  cat museum_of_bash_history
+  370  ls
+  371  cd ..
+  372  ls
+  373  head people
+  374  grep Annabel people
+  375  grep -r 179 *
+  376  grep -r line 179 *
+  377  grep Annabel people
+  378  grep -r 40
+  379  grep -r 40 *
+  380  grep Annabel people
+  381  head people
+  382  grep Annabel people
+  383  ls
+  384  cd streets
+  385  head Buckingham_Place
+  386  head Hart_Place
+  387  cat Buckingham_Place
+  388  cd ..
+  389  grep Annabel people
+  390  head people
+  391  ls
+  392  cd streets
+  393  head Haley_Street
+  394  cd ..
+  395  grep -n Annabel people
+  396  cd streets
+  397  grep 1670 Buckingham_Place
+  398  head Buckingham_Place
+  399  head -n 50 Hart_Place
+  400  cd ..
+  401  ls
+  402  cd interviews
+  403  grep #47246024
+  404  ls
+  405  grep 47246024
+  406  head interview- 47246024
+  407  head interview-47246024
+  408  cd ..
+  409  ls
+  410  grep -n Annabel people
+  411  cd streets
+  412  head -n 185  Buckingham_Place
+  413  cd ..
+  414  cd interviews
+  415  cat interview-699607
+  416  cd ..
+  417  ls
+  418  grep Honda vehicles
+  419  ls
+  420  grep L337 vehicles
+  421  grep -C 5  L337 vehicles
+  422  ls
+  423  cd memberships
+  424  ls
+  425  grep -r Bowers
+  426  grep -r Bowers *
+  427  grep -r Germuska *
