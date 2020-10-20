@@ -1,0 +1,149 @@
+247  cd command-line-murder-mystery
+  248  cat instructions
+  249  ls
+  250  cd mystery
+  251  ls
+  252  cd crimescene
+  253  cd interviews
+  254  ls
+  255  open crimscene
+  256  cd ..
+  257  pwd
+  258  open crimescene
+  259  l
+  260  ls
+  261  cat clue
+  262  cat solution
+  263  Cat hint1
+  264  pwd
+  265  cd ..
+  266  cat solution
+  267  cat hint1
+  268  cat hint 2
+  269  cat hint2
+  270  grep "CLUE" crimescene
+  271  grep "CLUE" crimescene%
+  272  cat instructions
+  273  ls
+  274  cd mystery
+  275  ls
+  276  cat hint2
+  277  cd ..
+  278  cat hint2
+  279  cd mystery
+  280  grep "ClUE" crimescene%
+  281  grep "CLUE" crimescene
+  282  cd ..
+  283  cat hint3
+  284  cat hint 1
+  285  cat hint1
+  286  cd mystery
+  287  head -Annabel people
+  288  cd ..
+  289  cat hint5
+  290  cat hint3
+  291  pwd
+  292  cat hint2
+  293  ls
+  294  cd mystery
+  295  ls
+  296  grep "Annabel" people%
+  297  grep "Annabel" people
+  298  cd ..
+  299  hint 3
+  300  cat hint 3
+  301  cat hint3
+  302  cat hint 4
+  303  cat hint4
+  304  cat hint 5
+  305  cat hint5
+  306  cd ..
+  307  cd command-line-murder-mystery
+  308  ls
+  309  cat hint1
+  310  head -n 20 people
+  311  cd mystery
+  312  head -n 20 people
+  313  ls
+  314  cd streets
+  315  ls
+  316  open glenville_avenue
+  317  cd ..
+  318  cat hint 2
+  319  cat hint2
+  320  cat hint3
+  321  cd mystery
+  322  grep "annabel" people
+  323  ls
+  324  grep "Annabel" people
+  325  cd ..
+  326  cat hint4
+  327  cat hint5
+  328  cd mystery
+  329  head -n 40 streets/hart_place | tail -n 1
+  330  head -n 173 streets/mattapan_street | tail -n 1
+  331  head -n 179 streets/Buckingham_placet | tail -n 1
+  332  head -n 179 streets/Buckingham_place | tail -n 1
+  333  head -n 176 streets/Haley_Street | tail -n 1
+  334  cd ..
+  335  cat hint5
+  336  cat hint6
+  337  cd mystery
+  338  ls
+  339  cd interviews
+  340  ls
+  341  open INTERVIEW #47246024
+  342  open INTERVIEW-47246024
+  343  open INTERVIEW-9437737
+  344  open interview-699607
+  345  cd ..
+  346  cat 5
+  347  cat hint5
+  348  cat hint6
+  349  cat hint7
+  350  cd mystery
+  351  ls
+  352  grep -A 5 "l337" mystery/vehicles
+  353  cd ..
+  354  grep -A 5 "l337" mystery/vehicles
+  355  cat hint 8
+  356  cat hint8
+  357  cat hint9
+  358  grep -A 5 "l337" mystery/vehicles
+  359  cd mystery
+  360  grep -A 5 "l337" vehicles
+  361  head -A 5 "l337" vehicles
+  362  grep -A 5 "L337" vehicles
+  363  cd ..
+  364  cat hint8
+  365  cd mystery
+  366  ls
+  367  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher""
+
+cd ..
+exit
+  368  ls
+  369  cd memberships
+  370  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher""
+  371  cd ..
+  372  cat hint1
+  373  cat hint2
+  374  grep "CLUE" crimescene
+  375  grep "CLUE" crimescene%
+  376  cd mystery
+  377  grep "CLUE" crimescene
+  378  cd ..
+  379  cd mystery
+  380  cd memberships
+  381  ls
+  382  cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Jacqui Maher""
+  383  cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Jacqui Maher"
+  384  cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Jeremy Bowers""
+cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Jacqui Maher
+  385  cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Jeremy Bowers"
+  386  cat AAA Delta_Skymiles Library.txt Museum_of_Bash_History | grep "Heather Billings"
+  387  cd ..
+  388  touch solution.txt
+  389  ls
+  390  run history
+Jacqui Maher
