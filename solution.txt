@@ -1,0 +1,50 @@
+Killer: Jeremy Bowers
+
+Commands: (windows powershell)
+dir -Recurse | Select-String -pattern "CLUE"
+select-string -path .\mystery\people -pattern 'Annabel'
+get-content -path .\mystery\people -head 20
+get-content -path .\mystery\vehicles -head 20
+(Get-Content -path .\mystery\streets\hart_place)[39]
+(Get-Content -path streets\buckingham_place)[178]
+Get-ChildItem -Recurse | Where-Object { $_.FullName -match '699607|47246024'}
+cat .\interviews\interview-699607
+cat .\interviews\interview-47246024
+select-string -path mystery\vehicles -pattern 'L337.*9$' -context 1,5
+Get-ChildItem -Path mystery\memberships -recurse | Select-String -pattern "Germuska" |select path
+Get-ChildItem -Path mystery\memberships -recurse | Select-String -pattern "Bowers" |select path
+Get-ChildItem -recurse | Get-Content | Select-String -pattern "Bowers"
+
+
+Clues:
+
+mystery\crimescene:9213:CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall
+male, at least 6'.
+mystery\crimescene:9370:CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and
+membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally
+untraceable and have no name, for some reason.
+mystery\crimescene:11002:CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they
+heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+
+  > mystery\vehicles:24834:License Plate L337DV9
+  mystery\vehicles:24835:Make: Honda
+  mystery\vehicles:24836:Color: Blue
+  mystery\vehicles:24837:Owner: Joe Germuska
+  mystery\vehicles:24838:Height: 6'2"
+  mystery\vehicles:24839:Weight: 164 lbs
+
+  > mystery\vehicles:31827:License Plate L3375A9
+  mystery\vehicles:31828:Make: Honda
+  mystery\vehicles:31829:Color: Blue
+  mystery\vehicles:31830:Owner: Jeremy Bowers
+  mystery\vehicles:31831:Height: 6'1"
+  mystery\vehicles:31832:Weight: 204 lbs
+  mystery\vehicles:34311:
+
+
+
+
+
+
