@@ -1,0 +1,138 @@
+
+  247  cd command-line-murder-mystery
+  248  ls
+  249  cat README.txt
+  250  cd mystery
+  251  cat README.md
+  252  cat instructions
+  253  cd ..
+  254  cat instructions
+  255  cat hint1
+  256  head -n20 people
+  257  cd mystery
+  258  head -n20 people
+  259  cheatsheet.pdf
+  260  cd ..
+  261  cheatsheat.pdf
+  262  grep "CLUE" crimescene
+  263  cd mystery
+  264  grep "CLUE" crimescene
+  265  head -n 173 streets/Mattapan_Street | tail -n 1
+  266  cd ..
+  267  touch solution.txt
+  268  cd ..
+  269  cd command-line-murder-mystery
+  270  cd desktop
+  271  ls
+  272  cd sei1019
+  273  ls
+  274  cd unit_one
+  275  ls
+  276  cd deliverable
+  277  ls
+  278  cd command-line-murder-mystery
+  279  git init
+  280  git status
+  281  git add .
+  282  git status
+  283  cd mystery
+  284  cd ..
+  285  cat instructions
+  286  cd mystery
+  287  cat hint1
+  288  cat solution
+  289  cd
+  290  cd command-line-murder-mystery
+  291  cd desktop
+  292  cd sei1019
+  293  cd unit_one
+  294  cd deliverable
+  295  cd command-line-murder-mystery
+  296  cat hint1
+  297  cat hint 2
+  298  cat hint2
+  299  grep "CLUE" crimescene
+  300  cd mystery
+  301  grep "CLUE" crimescene
+  302  head -n 20 people
+  303  ls
+  304  grep -r "CLUE" *
+  305  grep Annabel people
+  306  head -40 streets/Hart_Place | tail -1
+  307  cat SEE INTERVIEW #47246024
+  308  cat #47246024
+  309  cd sei1019
+  310  cd desktop
+  311  ls
+  312  cd SEI1019
+  313  ls
+  314  cd unit_one
+  315  ls
+  316  cd deliverable
+  317  ls
+  318  cd command-line-murder-mystery
+  319  cat instructions
+  320  cd mystery
+  321  ls
+  322  grep -r "CLUE"
+  323  cd desktop
+  324  cd sei1019
+  325  cd unit_one
+  326  cd deliverable
+  327  cd command-line-murder-mystery
+  328  cat instructions
+  329  cd mystery
+  330  ls
+  331  cat crimescene
+  332  grep "CLUE"
+  333  ls
+  334  cat crimescene
+  335  grep "CLUE" crimescene
+  336  cat hint1
+  337  cd ..
+  338  cat hint1
+  339  cat hint2
+  340  cat hint3
+  341  cd mystery
+  342  head -n 20 people
+  343  cat people
+  344  grep "Annabel" people
+  345  head -40 streets/Hart_Place | tail -1
+  346  cd
+  347  ls
+  348  cd Desktop/SEI1019/unit_one/deliverable/command-line-murder-mystery
+  349  cd mystery
+  350  ls
+  351  cd interviews
+  352  ls
+  353  cat interview-47246024
+  354  cat interview-699607
+  355  cd..
+  356  cd ..
+  357  ls
+  358  cat vehicles
+  359  grep "L337" vehicles
+  360  grep "L337" -A3 vehicles
+  361  grep "Erika Owens" people
+  362  streets/Trapelo_Street
+  363  ls
+  364  cd streets
+  365  cat Trapelo_Street
+  366  cd ..
+  367  grep "INTERVIEW" streets/Trapelo_Street
+  368  cat interviews/interview-5455315
+  369  grep "Pilhofer" people
+  370  grep "INTERVIEW" streets/Claybourne_Street
+  371  cat interviews/interview-1767435
+  372  grep "Bowers" people
+  373  grep "INTERVIEW" streets/Dunstable_Road
+  374  cat interviews/interview-9620713
+  375  ls
+  376  cd ..
+  377  grep "Jeremy Bowers" solution.txt
+  378  grep "Jeremy Bowers" solution
+  379  ls
+  380  cat hint7
+  381  ls
+  382  nano solution.txt
+Jeremy Bowers
