@@ -1,0 +1,31 @@
+ HISTORY
+ 262  ls
+  263  cat instructions
+  264  cd command-line-murder-mystery
+  265  cat instructions
+  266  cd mystery
+  267  cat crimescene
+  268  cat instructions
+  269  cd command-line-murder-mystery
+  270  cat instructions
+  271  cd ..
+  272  cat instructions
+  273  cat hint1
+  274  cat solution
+  275  cd solution
+  276  cat hint2
+  277  hint3
+  278  cat hint3
+  279  cat hint4
+  280  cat cheatsheet.md
+  281  cat crimescene
+  282  cd ..
+  283  cd deliverable
+  284  cd command-line-murder-mystery
+  285  cat instructions
+  286  cd crimescene
+  287  cat crimescene
+
+
+I ran more commands then what showed up in my history (i dont know how thats possible) and i couldnt find the solution. I tried for 2.5 hours to try and figure it out and i just couldnt and i am sorry. 
+
