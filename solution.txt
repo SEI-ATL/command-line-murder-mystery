@@ -1,25 +1,25 @@
- 1436  ECHO START THE SEARCH
- 1437  pwd
- 1438  cd ..
- 1439  cat instructions
- 1440  cd mystery
- 1441  cat crimescene |grep CLUE
- 1442  cat people | grep Annabel
- 1443  head -n 40 streets/Hart_Place | tail -n 1
- 1444  head -n 38 streets/Buckingham_Place | tail -n 1
- 1445  head -n 179 streets/Buckingham_Place | tail -n 1
- 1447   cd interviews
- 1451  cat interview-699607
- 1452   cat vehicles | grep Honda Blue L337
- 1453  cd ..
- 1454  ls
- 1456  cd vehicles
- 1459  grep -A 5 "L337" vehicles
- 1461  pwd
- 1462  ls
- 1463  cd memberships
- 1464  cat Delta_SkyMiles  AAA Museum_of_Bash_History | grep "Jeremy Bowers"
- 1465  cat Delta_SkyMiles  AAA Museum_of_Bash_History | grep "Joe Germuska"
+ ECHO START THE SEARCH
+ pwd
+ cd ..
+ cat instructions
+ cd mystery
+ cat crimescene |grep CLUE
+ cat people | grep Annabel
+ head -n 40 streets/Hart_Place | tail -n 1
+ head -n 38 streets/Buckingham_Place | tail -n 1
+ head -n 179 streets/Buckingham_Place | tail -n 1
+ cd interviews
+ cat interview-699607
+ cat vehicles | grep Honda Blue L337
+ cd ..
+ ls
+ cd vehicles
+ grep -A 5 "L337" vehicles
+ pwd
+ ls
+ cd memberships
+ cat Delta_SkyMiles  AAA Museum_of_Bash_History | grep "Jeremy Bowers"
+ cat Delta_SkyMiles  AAA Museum_of_Bash_History | grep "Joe Germuska"
 
 
 Jeremy Bowers
