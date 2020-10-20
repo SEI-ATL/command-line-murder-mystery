@@ -1,0 +1,43 @@
+/Users/lukeiverson/Desktop/SEI1019/unit_one/deliverable/command-line-murder-mystery
+  177  cd mystery
+  178  ls
+  179  cd streets
+  180  head -n 40 Hart_Place
+  181  cd ..
+  182  grep "Annabel" people
+  183  cd streets
+  184  head -n 179 Buckingham_Place
+  185  cd ..
+  186  ls
+  187  cd interviews
+  188  ls
+  189  cat interview-47246024
+  190  cat interview-699607
+  191  cd ..
+  192  ls
+  193  cd vehicles
+  194  cat vehicles
+  195  grep "L337" vehicles
+  196  grep -A 5 "L337" vehicles
+  197  grep -A 5 "L337" vehicles >> Suspects.txt
+  198  grep -A 4 "Honda" Suspects.txt
+  199  grep -A 4 "Honda" Suspects.txt >> Suspects2.txt
+  200  grep -A 3 "Blue" Suspects2.txt
+  201  grep -A 3 "Blue" Suspects2.txt >> Suspects3.txt
+  202  ls
+  203  grep "CLUE" crimescene
+  204  grep -B 1 "6'" Suspects3.txt
+  205  grep -B 1 "6'" Suspects3.txt >> Suspects4.txt
+  206  cd memberships
+  207  ls
+  208  cat AAA
+  209  cd ..
+  210  ls
+  211  cat Suspects4.txt
+  212  cd memberships
+  213  grep "Erika Owens" AAA Delta_SkyMiles library.txt Museum_of_Bash_History
+  214  grep "Joe Germuska" AAA Delta_SkyMiles library.txt Museum_of_Bash_History
+  215  grep "Jeremy Bowers" AAA Delta_SkyMiles library.txt Museum_of_Bash_History
+  216  cd ..
+  217  touch solution.txt
+MURDERER: JEREMY BOWERS
