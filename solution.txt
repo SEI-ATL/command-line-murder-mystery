@@ -1,0 +1,352 @@
+command-line-murder-mystery git:(main) ✗ history
+    1  code --verion
+    2  chsh -s /bin/bash
+    3  clear
+    4  zsh --version
+    5  chsh -s /bin/bash
+    6  ZSH_DISABLE_COMPFIX=true
+    7  source .zshrc
+    8  hsh -s /bin/zsh
+    9  ZSH_DISABLE_COMPFIX=true
+   10  $echo $SHELL
+   11  ZSH_DISABLE_COMPFIX=true source. zshrc
+   12  open .zshrc
+   13  $echo $SHELL
+   14  ZSH_DISABLE_COMPFIX=true
+   15  $echo $SHELL
+   16  cd desktop
+   17  open .
+   18  pwd
+   19  cd ..
+   20  ls
+   21  cd Desktop
+   22  cd ..
+   23  cd documents
+   24  ls
+   25  open-Felix Muwanguzi resume 4 2019.docx
+   26  open Felix\
+   27  open Felix 1
+   28  open court.docx
+   29  open Felix Felix\ Muwanguzi
+   30  open Felix Muwanguzi resume 4 2019.docx
+   31  open Pro
+   32  open Professional\ references.docx
+   33  cd ..
+   34  pwd
+   35  ls
+   36  cd felixm
+   37  cd desktop
+   38  mkdir cars
+   39  cd cars
+   40  car ls
+   41  ls
+   42  touch lamborgini.txt
+   43  ls
+   44  touch index.html
+   45  touch tesla.txt
+   46  ls
+   47  touch honda.txt
+   48  ls
+   49  touch ford.txt app.js about.html
+   50  ls
+   51  echo "My name is Felix"
+   52  echo "My name is Felix" > felix.txt
+   53  cat felix.txt
+   54  code felix.txt
+   55  echo "My last name is Felix" >> felix.txt
+   56  cat felix.txt
+   57  echo "May age is 28" >> felix.txt
+   58  cat felix.txt
+   59  cat felix.txt | sort
+   60  cat felix.txt
+   61  cat felix.txt | sort >> lamborgini.txt
+   62  cat lam
+   63  cat lamborgini.txt
+   64  echo "lamborgini" > lamborgini.txt
+   65  cat lamborgini.txt
+   66  cat felix.txt | grep  Felix
+   67  ls
+   68  cp felix.txt felixmuwanguzi.txt
+   69  cat felixmuwanguzi.txt
+   70  cars. code
+   71  cars code
+   72  code
+   73  cars. code
+   74  cars code.
+   75  code .
+   76  cd ..
+   77  cp -r cars motorcycles
+   78  ls
+   79  cd cars
+   80  touch test.html
+   81  ls
+   82  pwd
+   83  mv text.html ../motorcycles
+   84  mv tesxt.html ../motorcycles
+   85  mv test.html ../motorcycles
+   86  ls
+   87  cd..
+   88  cd ..
+   89  ls
+   90  cd motorcycles
+   91  ls
+   92  mv test.html ../cars
+   93  ls
+   94  cd ..
+   95  cd cars
+   96  ls
+   97  cd ..
+   98  cd motorcycles
+   99  cd ..
+  100  rm -rf motorcycles
+  101  ls
+  102  mkdir project-test
+  103  ls
+  104  cd project-text
+  105  cd project-test
+  106  echo "# Project Test" >> README.md
+  107  cat README.md
+  108  git init
+  109  git status
+  110  git add .
+  111  get status
+  112  git add README.md
+  113  git status
+  114  git commit -m "My first commit"
+  115  get log
+  116  getlog
+  117  git log
+  118  touch app.js index.html
+  119  ls
+  120  git status
+  121  git add .
+  122  git status
+  123  git reset
+  124  get status
+  125  get add app.js
+  126  git add app.js
+  127  git status
+  128  git commit -m "[app] Add file to project"
+  129  git log
+  130  git add index.html
+  131  git status
+  132  git commit -m "Add index html to project"
+  133  git status
+  134  git log
+  135  cd ..
+  136  cd git
+  137  chsh -s /bin/bash
+  138  cd desktop
+  139  ls
+  140  cd SE1019_test
+  141  ls
+  142  cd unit_one
+  143  ls
+  144  cd codealong
+  145  ls
+  146  cd project-test
+  147  cd ..
+  148  mkdir my-first-repo && cd my-first-repo
+  149  echo "# my-first-repo" >> README.md
+  150  git status
+  151  git init
+  152  git status
+  153  git add README.md
+  154  git status
+  155  git commit -m "first commit"
+  156  git branch -M main
+  157  cd
+  158  cd desktop
+  159  cd SE1019_test/unit_one
+  160  cd codealong
+  161  git clone https://github.com/fmuwanguzi/pull-test.git
+  162  git branch -M main
+  163  ls
+  164  cd pull-test
+  165  ls
+  166  touch app.js index.html
+  167  code
+  168  ls
+  169  code .
+  170  cd ..
+  171  ls
+  172  cd ..
+  173  cd..
+  174  cd ..
+  175  ls-lh
+  176  ls -lh
+  177  ls -lahh
+  178  rm -r .git
+  179  cd desktop
+  180  cd SE1019_test
+  181  ls -lah
+  182  ls
+  183  cd unit_one
+  184  ls
+  185  cd desktop
+  186  cd SEI1019_test/unit_tw
+  187  cd SEI1019_test/unit_two
+  188  mkdir codealong labs deliverable resources
+  189  ls
+  190  cd ..
+  191  cd unit_three
+  192  mkdir codealong labs deliverable resources
+  193  ls
+  194  cd ..
+  195  unit_four
+  196  ls
+  197  mkdir codealong labs deliverable resources
+  198  ls
+  199  cd ..
+  200  cd unti_one
+  201  cde unit_one
+  202  cd unit_one
+  203  cd codealong
+  204  ls
+  205  cd Desktop/SEI1019/unit_one/codealong
+  206  lls
+  207  ls
+  208  cd ..
+  209  cd deliverables
+  210  git init
+  211  cd .
+  212  cd
+  213  cd Desktop/SEI1019/unit_one/deliverables
+  214  git status
+  215  cd ..
+  216  cd unit_one/codealong
+  217  ls
+  218  cd my-first-repo
+  219  git status
+  220  git remote add origin https://github.com/fmuwanguzi/my-first-repo.git
+  221  git push -u origin main
+  222  ls
+  223  cd ..
+  224  ls
+  225  git clone https://github.com/fmuwanguzi/pull-test.git
+  226  cd pull-test
+  227  ls
+  228  code .
+  229  get status
+  230  git status
+  231  git add app.js
+  232  git status
+  233  git commit -m "[app] add name variable"
+  234  git add index.html
+  235  git status
+  236  git commit -m "[index] add file to project"
+  237  git push
+  238  cd ..
+  239  cd deliverables
+  240  ls -lah
+  241  rm -r .git
+  242  git clone https://github.com/SEI-ATL/command-line-murder-mystery.git
+  243  ls
+  244  cd command-line-murder-mystery
+  245  ls
+  246  cat instructions
+  247  nanoa cheatsheet.pdf
+  248  open cheatsheet.pdf
+  249  ls -lah
+  250  cat instructions
+  251  grep CLUE
+  252  cd destop
+  253  cd desktop
+  254  cd SEI1019/unit_one/deliverables/command-line-murder-mystery/mystery
+  255  ls
+  256  cat crimescene | grep CLUE
+  257  cd interviews
+  258  ls
+  259  cat people
+  260  cd ..
+  261  cat people
+  262  ls
+  263  cat crimescene | grep CLUE
+  264  cat people | grep M
+  265  cat people | grep M\t7
+  266  cat people | grep 7
+  267  cat people | sort
+  268  cat people | grep 7 | sort
+  269  cat people | grep 7
+  270  cat crimescene | grep CLUE
+  271  cat people | grep Annabel
+  272  cat people
+  273  cat people | grep Annabel
+  274  cd ..
+  275  ls
+  276  cat license
+  277  ls
+  278  cat hint1
+  279  head -n 20 people
+  280  cd mystery | head -n 20 people
+  281  cd mystery
+  282  head -n 20 people
+  283  cat people | grep Annabel
+  284  cat crimescene | grep CLUE
+  285  cat hint2
+  286  cd ..
+  287  cat hint2
+  288  cat hint3
+  289  cd mystery
+  290  ls
+  291  cat vehicles
+  292  cat vehicles | grep Annabel
+  293  cat people | grep Annabel
+  294  cat vehicles | grep Annabel | sort
+  295  cat vehiclesl | sort
+  296  cat vehicles | sort
+  297  cat vehicles | grep Annabel | sort
+  298  cat people | grep Annabel
+  299  head -n 20 vehiclese
+  300  head -n 20 vehicles
+  301  head -n 40 vehicles
+  302  head -n 40 vehicles | sort
+  303  head -n 240 vehicles | sort
+  304  tail -n 240 vehicles | sort
+  305  cd ..
+  306  ls
+  307  touch solution.txt
+  308  ls
+  309  cd mystery
+  310  ls
+  311  rm solution.txt
+  312  ls
+  313  cd interviews
+  314  ls
+  315  cd ..
+  316  ls
+  317  cd memberships
+  318  ls
+  319  cat AAdvantage | grep Annabel
+  320  cat Museum_of_Bash_History | grep Annabel
+  321  cat Delta_SkyMiles | grep Annabel
+  322  cd ..
+  323  ls
+  324  cat crimescene | grep Annabel
+  325  cat crimescene | grep CLUEl
+  326  cat crimescene | grep CLUE
+  327  ls
+  328  cd ..
+  329  ls
+  330  cd mystery
+  331  ls
+  332  cd memberships
+  333  ls
+  334  cat Terminal_City_Library | grep Annabel
+  335  cat library.txty | grep Annabel
+  336  cd ..
+  337  cd people
+  338  ls
+  339  cat people | grep Annabel
+  340  cd ..
+  341  code .
+➜  command-line-murder-mystery git:(main) ✗
+
+
+
+
+
+
+
+
+Name of the Killer is Annabel Church
