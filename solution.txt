@@ -1,0 +1,229 @@
+231  command-line-murder-mystery
+  232  ls
+  233  cat README.md
+  234  cat instructions
+  235  ls
+  236  ls -la
+  237  cd hint1
+  238  cd ../
+  239  cd command-line-murder-mystery
+  240  ls
+  241  cat hint1
+  242  ls
+  243  ls -la
+  244  cat mystery
+  245  cd mystery
+  246  ls
+  247  cat crimescene
+  248  ls
+  249  code crimescene
+  250  cat vehicles
+  251  ls
+  252  cd memberships
+  253  ls
+  254  cd ../
+  255  cd streets
+  256  ls
+  257  cd ../
+  258  ls
+  259  cd ../
+  260  ls
+  261  code cheatsheet.md
+  262  cat hint1
+  263  cat hint2
+  264  cat instructions
+  265  pls
+  266  ls
+  267  cd mystery
+  268  ls
+  269  head -n 20 people
+  270  ls
+  271  grep Clue crimescene
+  272  grep 'clue' crimescene
+  273  grep "CLUE" crimescene
+  274  ls
+  275  cat clues
+  276  grep "Annabel" people
+  277  grep "Annabel" people >> clues
+  278  cat clues
+  279  cd streets
+  280  grep "Hart Place"
+  281  cd desktoo
+  282  cd Desktop
+  283  ls
+  284  SEI1019
+  285  unit_one
+  286  ls
+  287  deliverable
+  288  ls
+  289  command-line-murder-mystery
+  290  ls
+  291  mystery
+  292  ls
+  293  cat clues
+  294  cat hint2
+  295  cd ../
+  296  cat hint2
+  297  cat hint3
+  298  man head
+  299  cat hint5
+  300  head -40 streets/Hart_Place | tail -n1
+  301  head -40 streets/Hart_Place
+  302  grep "Hart" streets
+  303  head -n 40 streets/Hart_Place | tail -n 1
+  304  head -n 40 streets/Hart_Place
+  305  head -n streets/Hart_Place
+  306  head -n 10 streets/Hart_{lace
+  307  head -n 10 streets/Hart_Place
+  308  cd streets
+  309  ls
+  310  mystery
+  311  ls
+  312  head -n 40 streets/Hart_Place | tail -n 1
+  313  head -n 40 streets/Hart_Place | tail -n 1 >> clues
+  314  ls
+  315  grep "#47246024" interviews
+  316  head -n 10 interviews
+  317  cat interviews
+  318  cd interviews
+  319  grep "#47246024"
+  320  cd Desktop
+  321  ls
+  322  SEI1019
+  323  unit_one
+  324  ls
+  325  deliverable
+  326  ls
+  327  command-line-murder-mystery
+  328  ls
+  329  mystery
+  330  ls
+  331  cd interviews
+  332  ls
+  333  cat interview-47246024
+  334  echo interview-47246024
+  335  cp interview-47246024 >> clues
+  336  cd ../
+  337  cp interviews/interview-47246024 >> clues
+  338  ls
+  339  cat clues
+  340  echls
+  341  ls
+  342  head -n 173 streets/Mattapan_Street | tail -n 1
+  343  head -n 173 streets/Mattapan_Street | tail -n 1 >> clues
+  344  cd interviews
+  345  cat interview-9437737
+  346  cd ../
+  347  head -n 179 streets/Buckingham_Palace | tail -n 1
+  348  head -n 179 streets/Buckingham_Place | tail -n 1
+  349  cd interview
+  350  cd interviews
+  351  cat interview-699607
+  352  cp interview-699607 >> mystery/clues
+  353  pwd
+  354  cd ../
+  355  cp interviews/interview-699607 >> clues
+  356  echo "Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\n\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"" >> clue.txt
+  357  cat clues
+  358  ls
+  359  grep "L337" vehicles
+  360  grep "Honda" "L337" vehicles
+  361  cat vechiles
+  362  ls
+  363  head -n 20 vehicles
+  364  ls
+  365  cd ../
+  366  ls
+  367  cat hint6
+  368  cat hint7
+  369  cd mystery
+  370  grep -A 5 "L337" vechiles
+  371  grep -A 5 "L337" vehicles
+  372  ls
+  373  cd memberships
+  374  ls
+  375  cat 1.txt
+  376  ls
+  377  cd ../
+  378  ls
+  379  cat clue.txt
+  380  rm clue.txt
+  381  ls
+  382  head -n 20 people
+  383  hint7
+  384  cat hint7
+  385  ls
+  386  cd ../
+  387  ls
+  388  cat hint7
+  389  cat hint8
+  390  cd mystery
+  391  ls
+  392  cd memberships
+  393  ls
+  394  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep -c
+  395  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep -c "Mike"
+  396  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep -c "Matt"
+  397  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Mike Bostock"
+  398  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "John Keefe"
+  399  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Matt Waite"
+  400  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Brian Boyer"
+  401  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Al Shaw"
+  402  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Joe Germuska"
+  403  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  404  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jacqui Maher"
+  405  Desktop
+  406  SEI1019
+  407  unit_one
+  408  ls
+  409  deliverable
+  410  ls
+  411  command-line-murder-mystery
+  412  ls
+  413  hint8
+  414  cat hint8
+  415  mystery
+  416  ls
+  417  cd memberships
+  418  ls
+  419  cat library.txt
+  420  ls
+  421  cd ../
+  422  ls
+  423  cd ../
+  424  ls
+  425  open cheatsheet.pdf
+  426  cat hint3
+  427  mystery
+  428  ls
+  429  cat people | grep "Mike Bostock"
+  430  head -n 287 streets/Senders_Court | tail -n 1
+  431  cat interivews/interview-290346
+  432  cat interviewss/interview-290346
+  433  cd interviews
+  434  ls
+  435  cat interview-290346
+  436  cat people | grep "Matt Waite"
+  437  cd ../
+  438  cat people | grep "Matt Waite"
+  439  head -n 79 streets/Alpine_Streett | tail -n 1
+  440  head -n 79 streets/Alpine_Street | tail -n 1
+  441  cat interviews/interview-8621736
+  442  cd interviews
+  443  cat interview-8621736
+  444  cat interview-862173
+  445  cd ../
+  446  cat people | grep "Jeremy Bowers"
+  447  cat people | grep "Jacqui Maher"
+  448  head -n 284 streets/Dunstable_Road | tail -n 1
+  449  head -n 224 streets/Andover_Road | tail -n 1
+  450  cd interview
+  451  cd interviews
+  452  cat interview-9620713
+  453  cat interview-904020
+  454  cd ../
+  455  ls
+  456  touch solution.txt
+  457  ls
+
+The killer is Jeremy Bower.
