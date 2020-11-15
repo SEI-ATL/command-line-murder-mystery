@@ -1,0 +1,26 @@
+//Question
+1. The commands you used to get the solution (hint: run `history` for a list of the commands you ran).
+// Answer
+869  cd
+  870  cd Desktop/SEI-1019/Unit_1/delieverable
+  871  touch solution.txt
+  872  ls
+
+  //Question
+  2. The name of the killer.
+ 1596  cd
+ 1597  pwd
+ 1598  cd Desktop/SEI-1019/Unit_1/delieverable
+ 1599  ls
+ 1600  command-line-murder-mystery
+ 1601  open instructions
+ 1602  cd mystery
+ 1603  cd interviews
+ 1604  ls
+ 1605  cd ..
+ 1606  cat crimescence | grep clue
+ 1607  cat crimescence
+
+//(Pete covered this one in class)
+The killer is JERMEY BOwWERS.
+
